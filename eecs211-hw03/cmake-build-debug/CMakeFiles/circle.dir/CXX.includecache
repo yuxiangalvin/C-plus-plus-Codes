@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/YuxiangC/Desktop/eecs211-hw03/circle.cpp
+circle_lib.h
+/Users/YuxiangC/Desktop/eecs211-hw03/circle_lib.h
+iostream
+-
+vector
+-
+
+/Users/YuxiangC/Desktop/eecs211-hw03/circle_lib.cpp
+circle_lib.h
+/Users/YuxiangC/Desktop/eecs211-hw03/circle_lib.h
+iostream
+-
+stdexcept
+-
+math.h
+-
+
+/Users/YuxiangC/Desktop/eecs211-hw03/circle_lib.h
+

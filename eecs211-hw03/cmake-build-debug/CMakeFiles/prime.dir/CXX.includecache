@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/YuxiangC/Desktop/eecs211-hw03/prime.cpp
+prime_lib.h
+/Users/YuxiangC/Desktop/eecs211-hw03/prime_lib.h
+iostream
+-
+vector
+-
+
+/Users/YuxiangC/Desktop/eecs211-hw03/prime_lib.cpp
+prime_lib.h
+/Users/YuxiangC/Desktop/eecs211-hw03/prime_lib.h
+stdexcept
+-
+vector
+-
+
+/Users/YuxiangC/Desktop/eecs211-hw03/prime_lib.h
+vector
+-
+
